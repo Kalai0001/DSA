@@ -24,5 +24,6 @@ public class Maxfreq {
         }
 
         System.out.printf("Number with Most Frequency : %d \n Occurence : %d",n,occur);
+        
     }
 }
